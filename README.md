@@ -11,5 +11,5 @@
 > *往前走吧，别回头 / Move forward. Don't look back.*
 
 尝试学习python，INTP-T
-QQ：357978819（大号未出柜...）
+QQ：357978819
 
