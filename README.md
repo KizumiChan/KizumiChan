@@ -8,8 +8,5 @@
 
 # 🥬希澈 / Kizumi
 
-> *往前走吧，别回头 / Move forward. Don't look back.*
-
-尝试学习python，INTP-T
-QQ：357978819
+> *往前走吧，别回头 / Move forward. Don't look back.
 
